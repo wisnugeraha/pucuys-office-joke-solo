@@ -1,10 +1,10 @@
 # One-Line Office Joke: 24-Hour Sprint
 
-make.fun competition entry: a one-line joke about office life.
+A one-line joke about office life.
 
-[![](https://make.fun/badge/u-pucuys-one-line-office-joke-24-hour-sprint-aaf86162.svg)](https://make.fun/bounty/u-pucuys-one-line-office-joke-24-hour-sprint-aaf86162)
-[![](https://make.fun/badge/u-pucuys-one-line-office-joke-24-hour-sprint-aaf86162/5EV7jqNNSaoPQUd9m65zTSNxPKq7UrW5Yuzgf1rJHcvX/rank.svg)](https://make.fun/bounty/u-pucuys-one-line-office-joke-24-hour-sprint-aaf86162)
-[![](https://make.fun/badge/u-pucuys-one-line-office-joke-24-hour-sprint-aaf86162/5EV7jqNNSaoPQUd9m65zTSNxPKq7UrW5Yuzgf1rJHcvX/reward.svg)](https://make.fun/bounty/u-pucuys-one-line-office-joke-24-hour-sprint-aaf86162)
+[![make.fun · u-pucuys-one-line-office-joke-24-hour-sprint-aaf86162](https://make.fun/badge/u-pucuys-one-line-office-joke-24-hour-sprint-aaf86162.svg)](https://make.fun/bounty/u-pucuys-one-line-office-joke-24-hour-sprint-aaf86162?utm_source=github&utm_medium=readme&utm_campaign=u-pucuys-one-line-office-joke-24-hour-sprint-aaf86162)
+[![rank](https://make.fun/badge/u-pucuys-one-line-office-joke-24-hour-sprint-aaf86162/wisnugeraha/pucuys-office-joke-solo/rank.svg)](https://make.fun/bounty/u-pucuys-one-line-office-joke-24-hour-sprint-aaf86162/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-pucuys-one-line-office-joke-24-hour-sprint-aaf86162)
+[![reward](https://make.fun/badge/u-pucuys-one-line-office-joke-24-hour-sprint-aaf86162/wisnugeraha/pucuys-office-joke-solo/reward.svg)](https://make.fun/bounty/u-pucuys-one-line-office-joke-24-hour-sprint-aaf86162?utm_source=github&utm_medium=readme&utm_campaign=u-pucuys-one-line-office-joke-24-hour-sprint-aaf86162)
 
 ## Run
 
